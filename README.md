@@ -4,4 +4,4 @@ I've been 🎓 teaching Computer Vision and Python for AI since 2018 at [FIAP](w
 
 Also I lead the tech track of the BeyondLabs, the innovation center of [EY](www.ey.com.br).
 
-I love sci-fi 🚀 authors. My favorities are: Arthur C. Clarke ([Childhood's End](https://en.wikipedia.org/wiki/Childhood%27s_End), [Rendezvous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)), Isaac Asimov (all 😍).
+I love sci-fi 🚀 authors. My favorities are: Arthur C. Clarke ([Childhood's End](https://en.wikipedia.org/wiki/Childhood%27s_End), [Rendezvous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)), Cixin Liu ([Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))) and Isaac Asimov (all 😍).
