@@ -1,6 +1,6 @@
 ### Hi there, my name is Michel Fernandes! 👋
 
-I've been 🎓 teaching Computer Vision and Python for AI since 2018 at [FIAP](www.fiap.com.br) for post-graduate courses, such as the [MBA in Machine Learning](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/). Feel free to check my repos to check some codes and lectures 😜.
+I've been 🎓 teaching Computer Vision and Python for AI since 2018 at [FIAP](www.fiap.com.br) for post-graduate courses, such as the [MBA in Machine Learning](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/). Feel free to check my repos and review some codes and lectures 😜.
 
 Also I lead the tech track of the BeyondLabs, the innovation center of [EY](www.ey.com.br).
 
