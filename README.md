@@ -8,4 +8,4 @@ I love sci-fi 🚀 authors. My favorities are: Arthur C. Clarke ([Childhood's En
 
 Catholic ⛪ and opinions my own!
 
-To check more details of my work 💼, go to my [LinkedIn](https://www.linkedin.com/in/michelpf) profile.
+To check more details of my work 💼, go to my [LinkedIn](https://www.linkedin.com/in/michelpf) profile. For my academic profile, check my [Google Scholar](https://scholar.google.com.br/citations?user=eKTMuFAAAAAJ&hl=pt-BR&oi=ao) profile.
